@@ -1,0 +1,24 @@
+{
+  "name": "skill-micros",
+  "version": "1.0.0",
+  "description": "Skill micros for openskill",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spacerockzero/skill-micros.git"
+  },
+  "keywords": [
+    "skills",
+    "learning",
+    "curriculum"
+  ],
+  "author": "Jakob Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spacerockzero/skill-micros/issues"
+  },
+  "homepage": "https://github.com/spacerockzero/skill-micros#readme"
+}
