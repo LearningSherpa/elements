@@ -1,0 +1,69 @@
+{
+  "name": "JavaScript Language Basics",
+  "author": {
+    "name": "Jakob Anderson",
+    "github_username": "spacerockzero",
+    "bitcoin_address": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "email": "xxxx@xxxx.com"
+  },
+  "time_est": {
+    "min": 1,
+    "max": 2
+  },
+  "used_by": [],
+  "quote": {
+    "text": "JavaScript was not developed at Sun Microsystems, the home of Java. JavaScript was developed at Netscape. It was originally called LiveScript, but that name wasn't confusing enough.",
+    "attribution": "Douglas Crockford"
+  },
+  "description": "JavaScript is the chosen language of the internet browser. Find out how it ticks.",
+  "goal": "Demonstrate the basic foundations in the JavaScript Language. You should know about variables, strings, loops, arrays, objects, functions, etc.",
+  "required_info": {
+    "interactives": [
+      {
+        "title": "Try JavaScript",
+        "url": "https://www.javascript.com/"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Intro to JavaScript",
+        "url": "https://www.youtube.com/watch?v=lyh5IXq67UQ",
+        "author": "Major League Hacking",
+        "sourcetype": "youtube"
+      }
+    ],
+    "articles": [
+      {
+        "title": "A Re-introduction to JavaScript",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript",
+        "author": "Steve McFakename"
+      }
+    ]
+  },
+  "suggested_assignments": [
+    {
+      "title": "Solve at least 10 JavaScript coding problems",
+      "time_est": {
+        "min": 2,
+        "max": 2
+      },
+      "requirements": [
+        {
+          "text": "CoderByte",
+          "url": "http://coderbyte.com/CodingArea/Challenges/"
+        },
+        {
+          "text": "CodeWars",
+          "url": "http://www.codewars.com/"
+        }
+      ]
+    },
+    {
+      "title": "Demonstrate how you've done all of #1 in your work or side work"      
+    },
+    {
+      "topic": "Make something else creative that proves you are totally legit in this topic"
+    }
+  ],
+  "pr_link": "http://github.com/spacerockzero/skill-micros/javascript-language-basics.json"
+}
