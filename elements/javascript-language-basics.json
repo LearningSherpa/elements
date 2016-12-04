@@ -10,7 +10,6 @@
     "min": 1,
     "max": 2
   },
-  "used_by": [],
   "quote": {
     "text": "JavaScript was not developed at Sun Microsystems, the home of Java. JavaScript was developed at Netscape. It was originally called LiveScript, but that name wasn't confusing enough.",
     "attribution": "Douglas Crockford"
