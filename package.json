@@ -1,24 +1,26 @@
 {
-  "name": "skill-micros",
+  "name": "learning-sherpa-elements",
   "version": "1.0.0",
-  "description": "Skill micros for openskill",
+  "description": "Skill Elements for LearningSherpa",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spacerockzero/skill-micros.git"
+    "url": "git+https://github.com/LearningSherpa/elements.git"
   },
   "keywords": [
+    "learningsherpa",
     "skills",
+    "elements",
     "learning",
     "curriculum"
   ],
   "author": "Jakob Anderson",
-  "license": "MIT",
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "bugs": {
-    "url": "https://github.com/spacerockzero/skill-micros/issues"
+    "url": "https://github.com/LearningSherpa/elements/issues"
   },
-  "homepage": "https://github.com/spacerockzero/skill-micros#readme"
+  "homepage": "https://github.com/LearningSherpa/elements#readme"
 }

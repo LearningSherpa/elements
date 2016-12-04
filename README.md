@@ -1,11 +1,13 @@
-# Learning Sherpa skill micro repo
+# Learning Sherpa - Elements
 
-These are the tiny, atomic topics that make up the awesome collection of 
-skill content in LearningSherpa. All programs are composed of many micros, 
-and a micro represents the smallest piece a topic can be broken up into, 
+![Learning Sherpa](https://avatars0.githubusercontent.com/u/24362865?v=3&s=200)
+
+Elements are the tiny, atomic topics that make up the awesome collection of 
+skill content in LearningSherpa. All programs are composed of many Elements, 
+and an Element represents the smallest piece a topic can be broken up into, 
 and still be estimated to take up to 2 hours to complete.
 
-These are all contributed by the community, and are public & open-source. 
+These Elements are all contributed by the community, and are public & open-source. 
 Use these, tweak these, do whatever you want as long as it's non-commerical.
 
 ## How to make content
@@ -17,3 +19,5 @@ Use these, tweak these, do whatever you want as long as it's non-commerical.
 - Make a pull request to this repo
 - We'll review it, give you feedback, and merge it when it is ready!
 - Now you're a contributor! Bask in the glory of your awesomeness!
+
+![CC BY-NC-SA license](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)
