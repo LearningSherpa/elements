@@ -1,4 +1,5 @@
 {
+  "completed": false,
   "name": "Functional JavaScript",
   "author": {
     "name": "Steve McFakename",
@@ -26,7 +27,8 @@
       {
         "title": "nodeschool.io Functional JavaScript Course",
         "url": "https://example.com/nodeschool-functional-js-course",
-        "author": "Steve McFakename"
+        "author": "Steve McFakename",
+        "completed": false
       }
     ],
     "videos": [
@@ -34,28 +36,32 @@
         "title": "Functional JavaScript Series",
         "url": "https://example.com/functional-js-series",
         "author": "Steve McFakename",
-        "sourcetype": "YouTube"
+        "sourcetype": "YouTube",
+        "completed": false
       }
     ],
     "slides": [
       {
         "title": "Functional JavaScript in Action",
         "url": "https://example.com/functional-js-in-action",
-        "author": "Steve McFakename"
+        "author": "Steve McFakename",
+        "completed": false
       }
     ],
     "articles": [
       {
         "title": "Functional JavaScript is the Best",
         "url": "https://example.com/functional-js-is-the-best",
-        "author": "Steve McFakename"
+        "author": "Steve McFakename",
+        "completed": false
       }
     ],
     "tools": [
       {
         "title": "Functional JavaScript ESLint config",
         "url": "https://example.com/functional-js-eslint-config",
-        "author": "Steve McFakename"
+        "author": "Steve McFakename",
+        "completed": false
       }
     ]
   },
@@ -99,17 +105,33 @@
   },
   "suggested_assignments": [
     {
+      "completed": false,
       "title": "Make a creative project that demonstrates the following:",
       "time_est": {
         "min": 0.25,
         "max": 0.5
       },
       "requirements": [
-        "mouse tails",
-        "turkey legs",
-        "armadillo teeth",
-        "chicken math",
-        "psychedelic slugs"
+        {
+          "text": "mouse tails",
+          "completed": false
+        },
+        {
+          "text": "turkey legs",
+          "completed": false
+        },
+        {
+          "text": "armadillo teeth",
+          "completed": false
+        },
+        {
+          "text": "chicken math",
+          "completed": false
+        },
+        {
+          "text": "psychedelic slugs",
+          "completed": false
+        }
       ]
     },
     {

@@ -1,4 +1,5 @@
 {
+  "completed": false,
   "name": "JavaScript Language Basics",
   "author": {
     "name": "Jakob Anderson",
@@ -17,10 +18,12 @@
   "description": "JavaScript is the chosen language of the internet browser. Find out how it ticks.",
   "goal": "Demonstrate the basic foundations in the JavaScript Language. You should know about variables, strings, loops, arrays, objects, functions, etc.",
   "required_info": {
+    "completed": false,
     "interactives": [
       {
         "title": "Try JavaScript",
-        "url": "https://www.javascript.com/"
+        "url": "https://www.javascript.com/",
+        "completed": false
       }
     ],
     "videos": [
@@ -28,14 +31,16 @@
         "title": "Intro to JavaScript",
         "url": "https://www.youtube.com/watch?v=lyh5IXq67UQ",
         "author": "Major League Hacking",
-        "sourcetype": "youtube"
+        "sourcetype": "youtube",
+        "completed": false
       }
     ],
     "articles": [
       {
         "title": "A Re-introduction to JavaScript",
         "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript",
-        "author": "Mozilla Developer Network"
+        "author": "Mozilla Developer Network",
+        "completed": false
       }
     ]
   },
@@ -49,19 +54,23 @@
       "requirements": [
         {
           "text": "CoderByte",
-          "url": "http://coderbyte.com/CodingArea/Challenges/"
+          "url": "http://coderbyte.com/CodingArea/Challenges/",
+          "completed": false
         },
         {
           "text": "CodeWars",
-          "url": "http://www.codewars.com/"
+          "url": "http://www.codewars.com/",
+          "completed": false
         }
       ]
     },
     {
-      "title": "Demonstrate how you've done all of #1 in your work or side work"      
+      "title": "Demonstrate how you've done all of #1 in your work or side work",
+      "completed": false    
     },
     {
-      "topic": "Make something else creative that proves you are totally legit in this topic"
+      "topic": "Make something else creative that proves you are totally legit in this topic",
+      "completed": false
     }
   ],
   "pr_link": "https://github.com/spacerockzero/skill-micros/blob/master/javascript-language-basics.json"
