@@ -7,7 +7,7 @@
     "bitcoin_address": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "email": "steve@fakename.com"
   },
-  "categories": [
+  "themes": [
     "javascript",
     "functional-programming"
   ],
