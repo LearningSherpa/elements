@@ -7,6 +7,10 @@
     "bitcoin_address": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "email": "xxxx@xxxx.com"
   },
+  "categories": [
+    "javascript",
+    "language-basics"
+  ],
   "time_est": {
     "min": 1,
     "max": 2

@@ -7,15 +7,14 @@
     "bitcoin_address": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "email": "steve@fakename.com"
   },
+  "categories": [
+    "javascript",
+    "functional-programming"
+  ],
   "time_est": {
     "min": 1,
     "max": 2
   },
-  "used_by": [
-    12,
-    11,
-    14
-  ],
   "quote": {
     "text": "All generalizations are bad.",
     "attribution": "Jakob Anderson"
