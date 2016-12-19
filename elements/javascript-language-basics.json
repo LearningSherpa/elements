@@ -9,7 +9,8 @@
   },
   "themes": [
     "javascript",
-    "language-basics"
+    "language-basics",
+    "language-basics-javascript"
   ],
   "time_est": {
     "min": 1,
